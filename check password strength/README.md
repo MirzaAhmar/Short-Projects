@@ -11,11 +11,7 @@ This project is a great starting point for learning about form validation and pa
 
 
 ![image](https://github.com/user-attachments/assets/df9b81fc-cc7d-43dc-9d33-5c1fa790537f)
-
 ![image](https://github.com/user-attachments/assets/c77cd1a1-f212-4cb1-bfdf-a98b2008b61f)
-
 ![image](https://github.com/user-attachments/assets/01631bc2-0655-4f27-ad5c-f7476436efe2)
-
 ![image](https://github.com/user-attachments/assets/efe90a62-cd90-454c-946f-376cc72ffbc6)
-
 ![image](https://github.com/user-attachments/assets/84653ff4-7c96-40b0-abdc-bedb87a666b4)
