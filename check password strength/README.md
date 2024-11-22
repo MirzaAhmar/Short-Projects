@@ -1,4 +1,4 @@
-https://www.w3schools.com/css/css_rwd_mediaqueries.asp
+[https://www.w3schools.com/css/css_rwd_mediaqueries.asp](https://password-strength-checker2.netlify.app/)
 
 𝗣𝗮𝘀𝘀𝘄𝗼𝗿𝗱 𝗦𝘁𝗿𝗲𝗻𝗴𝘁𝗵 𝗖𝗵𝗲𝗰𝗸 𝗶𝗻 𝗛𝗧𝗠𝗟 𝗖𝗦𝗦 & 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁
 
